@@ -9,7 +9,7 @@ name: Bhavesh Soni
 description: Hi, I am Bhavesh Soni
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/Bhaveshgoldsmith/Bhaveshgoldsmith.github.io/blob/master/images/jekyll-logo.png
+avatar: ![_config.yml]({{ site.baseurl }}/images/5078copy.png)
 #
 # Flags below are optional
 #
